@@ -1,0 +1,1226 @@
+Watching for file changes with StatReloader
+[30/Mar/2024 17:24:48] "GET /?q=kanti HTTP/1.1" 200 6036
+[30/Mar/2024 17:24:49] "GET /?q=kanti HTTP/1.1" 200 6036
+[30/Mar/2024 17:24:50] "GET /logout/ HTTP/1.1" 302 0
+[30/Mar/2024 17:24:50] "GET / HTTP/1.1" 200 3026
+[30/Mar/2024 17:24:55] "GET / HTTP/1.1" 200 2782
+[30/Mar/2024 17:24:55] "GET / HTTP/1.1" 200 2782
+[30/Mar/2024 17:24:57] "POST / HTTP/1.1" 302 0
+[30/Mar/2024 17:24:57] "GET / HTTP/1.1" 200 6586
+[30/Mar/2024 17:27:43] "GET / HTTP/1.1" 200 6347
+[30/Mar/2024 17:27:47] "GET /admin HTTP/1.1" 301 0
+[30/Mar/2024 17:27:47] "GET /admin/ HTTP/1.1" 200 5543
+[30/Mar/2024 17:27:47] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+[30/Mar/2024 17:27:47] "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+[30/Mar/2024 17:27:47] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+[30/Mar/2024 17:27:47] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[30/Mar/2024 17:27:47] "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+[30/Mar/2024 17:27:47] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[30/Mar/2024 17:27:47] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[30/Mar/2024 17:27:47] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[30/Mar/2024 17:27:47] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[30/Mar/2024 17:27:52] "GET /admin/auth/user/add/ HTTP/1.1" 200 10144
+[30/Mar/2024 17:27:52] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[30/Mar/2024 17:27:52] "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+[30/Mar/2024 17:27:52] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+[30/Mar/2024 17:27:52] "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[30/Mar/2024 17:27:52] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[30/Mar/2024 17:27:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[30/Mar/2024 17:27:52] "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+[30/Mar/2024 17:27:52] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[30/Mar/2024 17:27:52] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[30/Mar/2024 17:27:52] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[30/Mar/2024 17:27:52] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+[30/Mar/2024 17:27:52] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[30/Mar/2024 17:27:53] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[30/Mar/2024 17:28:01] "GET /admin/ HTTP/1.1" 200 5543
+[30/Mar/2024 17:31:01] "GET /admin/auth/user/add/ HTTP/1.1" 200 10144
+[30/Mar/2024 17:31:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[30/Mar/2024 17:31:35] "POST /admin/logout/ HTTP/1.1" 200 3553
+[31/Mar/2024 05:37:14] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 05:37:15] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 05:37:19] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 05:37:19] "GET / HTTP/1.1" 200 6586
+[31/Mar/2024 05:37:26] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3401
+[31/Mar/2024 05:37:29] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 4772
+[31/Mar/2024 05:38:08] "POST /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 05:38:08] "GET / HTTP/1.1" 200 6608
+[31/Mar/2024 05:42:52] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3446
+[31/Mar/2024 05:42:55] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 4844
+/home/albus/mysite/auth_app/forms.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 30, 2024 - 17:24:39
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Username is abhishek.poudel
+Password is san#12345
+User is abhishek.poudel
+Username is abhishek.poudel
+Password is san#12345
+User is abhishek.poudel
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+Watching for file changes with StatReloader
+/home/albus/mysite/auth_app/forms.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 06:04:57
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[31/Mar/2024 10:09:25] "POST /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 10:09:25] "GET / HTTP/1.1" 200 3046
+[31/Mar/2024 10:09:29] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 10:09:29] "GET / HTTP/1.1" 200 6617
+[31/Mar/2024 10:09:31] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3446
+/home/albus/mysite/auth_app/forms.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 10:09:15
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Username is abhishek.poudel
+Password is san#12345
+User is abhishek.poudel
+Customer record is abhishek poudel
+Watching for file changes with StatReloader
+[31/Mar/2024 10:12:08] "GET / HTTP/1.1" 200 6378
+[31/Mar/2024 10:12:10] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3446
+[31/Mar/2024 10:12:23] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3446
+[31/Mar/2024 10:12:24] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3446
+[31/Mar/2024 10:12:25] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 4784
+[31/Mar/2024 10:12:57] "GET / HTTP/1.1" 200 6378
+[31/Mar/2024 10:12:58] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3446
+[31/Mar/2024 10:13:32] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 4784
+[31/Mar/2024 10:13:43] "POST /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 10:13:43] "GET / HTTP/1.1" 200 6612
+[31/Mar/2024 10:13:46] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[31/Mar/2024 10:13:49] "GET / HTTP/1.1" 200 6382
+[31/Mar/2024 10:14:09] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 10:14:09] "GET / HTTP/1.1" 200 3026
+[31/Mar/2024 10:18:25] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:18:25] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 10:18:25] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[31/Mar/2024 10:18:25] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[31/Mar/2024 10:18:25] "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[31/Mar/2024 10:18:25] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[31/Mar/2024 10:18:25] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[31/Mar/2024 10:18:25] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[31/Mar/2024 10:18:25] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[31/Mar/2024 10:18:33] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:18:33] "GET /admin/ HTTP/1.1" 200 5535
+[31/Mar/2024 10:18:33] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[31/Mar/2024 10:18:33] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[31/Mar/2024 10:18:33] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+/home/albus/mysite/auth_app/admin.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 10:12:04
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Customer record is abhishek poudel
+Customer record is abhishek poudel
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+Customer record is abhishek poudel
+Watching for file changes with StatReloader
+/home/albus/mysite/auth_app/admin.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 10:20:41
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[31/Mar/2024 10:21:49] "POST /admin/logout/ HTTP/1.1" 200 3553
+[31/Mar/2024 10:21:51] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:21:51] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 10:21:54] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:21:54] "GET /admin/ HTTP/1.1" 200 6197
+[31/Mar/2024 10:21:59] "GET /admin/auth_app/record/ HTTP/1.1" 200 31837
+[31/Mar/2024 10:21:59] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+[31/Mar/2024 10:21:59] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 10:21:59] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[31/Mar/2024 10:21:59] "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[31/Mar/2024 10:21:59] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[31/Mar/2024 10:22:08] "POST /admin/logout/ HTTP/1.1" 200 3553
+[31/Mar/2024 10:22:09] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:22:09] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 10:23:00] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:23:00] "GET /admin/ HTTP/1.1" 200 6205
+[31/Mar/2024 10:23:04] "GET /admin/auth_app/record/add/ HTTP/1.1" 200 15299
+[31/Mar/2024 10:23:04] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[31/Mar/2024 10:23:04] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[31/Mar/2024 10:23:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 10:23:04] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[31/Mar/2024 10:23:04] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[31/Mar/2024 10:23:12] "POST /admin/logout/ HTTP/1.1" 200 3553
+[31/Mar/2024 10:23:13] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:23:13] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 10:26:40] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:26:40] "GET /admin/ HTTP/1.1" 200 4514
+[31/Mar/2024 10:45:39] "POST /admin/logout/ HTTP/1.1" 302 0
+[31/Mar/2024 10:45:39] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:45:39] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 10:46:02] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 10:46:02] "GET /admin/ HTTP/1.1" 200 6201
+[31/Mar/2024 10:46:07] "GET /admin/auth_app/record/ HTTP/1.1" 200 31841
+[31/Mar/2024 10:46:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 10:46:30] "GET /admin/auth_app/record/yuvraj.poudel_40sanimabank.com/change/ HTTP/1.1" 200 15813
+[31/Mar/2024 10:46:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 10:46:32] "GET /admin/auth_app/record/ HTTP/1.1" 200 31841
+[31/Mar/2024 10:46:33] "GET /admin/auth_app/record/add/ HTTP/1.1" 200 15295
+[31/Mar/2024 10:46:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 10:46:43] "POST /admin/logout/ HTTP/1.1" 200 3553
+/home/albus/mysite/mysite/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 10:21:10
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 10:47:29
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 11:12:29
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+[31/Mar/2024 11:20:26] "GET /admin/auth_app/record/add/ HTTP/1.1" 302 0
+[31/Mar/2024 11:20:26] "GET /admin/login/?next=/admin/auth_app/record/add/ HTTP/1.1" 200 4198
+[31/Mar/2024 11:20:29] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 11:21:30] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 11:21:30] "GET / HTTP/1.1" 200 6621
+[31/Mar/2024 11:21:40] "GET /?q=call HTTP/1.1" 200 2940
+[31/Mar/2024 11:21:43] "GET / HTTP/1.1" 200 6382
+[31/Mar/2024 11:21:46] "GET /record/ajaykumar.yadav@sanimabank.com HTTP/1.1" 200 3443
+[31/Mar/2024 11:21:47] "GET /update_record/ajaykumar.yadav@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:21:47] "GET / HTTP/1.1" 200 6648
+[31/Mar/2024 11:21:51] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 11:21:51] "GET / HTTP/1.1" 200 3026
+[31/Mar/2024 11:21:56] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:21:56] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:22:01] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:22:01] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:42:35] "GET /admin HTTP/1.1" 301 0
+[31/Mar/2024 11:42:35] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:42:35] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:42:36] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /static/admin/css/login.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:42:36] "GET /favicon.ico HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:42:53] "GET /admin/ HTTP/1.1" 200 6201
+[31/Mar/2024 11:42:53] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+[31/Mar/2024 11:42:53] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:43:00] "GET / HTTP/1.1" 200 6382
+[31/Mar/2024 11:43:07] "GET /?q=611 HTTP/1.1" 200 3310
+[31/Mar/2024 11:43:10] "GET /?q=6113 HTTP/1.1" 200 2940
+[31/Mar/2024 11:43:13] "GET /?q=611 HTTP/1.1" 200 3310
+[31/Mar/2024 11:43:17] "GET /?q=core HTTP/1.1" 200 3310
+[31/Mar/2024 11:43:22] "GET /?q=core+it HTTP/1.1" 200 3310
+[31/Mar/2024 11:43:27] "GET /?q=kanti HTTP/1.1" 200 6036
+[31/Mar/2024 11:43:38] "GET /?q=damak HTTP/1.1" 200 5659
+[31/Mar/2024 11:43:42] "GET /record/roshan.khadka@sanimabank.com HTTP/1.1" 200 3441
+[31/Mar/2024 11:43:47] "GET / HTTP/1.1" 200 6382
+[31/Mar/2024 11:43:54] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 11:43:54] "GET / HTTP/1.1" 200 3026
+[31/Mar/2024 11:43:59] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 11:43:59] "GET / HTTP/1.1" 200 6585
+[31/Mar/2024 11:44:03] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3391
+[31/Mar/2024 11:44:05] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4703
+[31/Mar/2024 11:44:14] "POST /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:44:14] "GET / HTTP/1.1" 200 6580
+[31/Mar/2024 11:44:17] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3395
+[31/Mar/2024 11:44:19] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4716
+[31/Mar/2024 11:44:25] "GET / HTTP/1.1" 200 6350
+[31/Mar/2024 11:44:26] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 11:44:26] "GET /favicon.ico HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /admin HTTP/1.1" 301 0
+[31/Mar/2024 11:44:35] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:44:35] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:44:35] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /static/admin/css/login.css HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:44:35] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:44:36] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[31/Mar/2024 11:44:37] "GET / HTTP/1.1" 200 6350
+[31/Mar/2024 11:44:38] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3395
+[31/Mar/2024 11:44:41] "GET / HTTP/1.1" 200 6350
+[31/Mar/2024 11:44:45] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3395
+[31/Mar/2024 11:44:45] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4716
+[31/Mar/2024 11:45:26] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 11:45:27] "GET /favicon.ico HTTP/1.1" 404 179
+[31/Mar/2024 11:45:55] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 11:45:55] "GET / HTTP/1.1" 200 6589
+[31/Mar/2024 11:45:56] "POST /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:45:56] "GET / HTTP/1.1" 200 6587
+[31/Mar/2024 11:45:59] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3402
+[31/Mar/2024 11:46:01] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4732
+[31/Mar/2024 11:46:23] "POST /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:46:23] "GET / HTTP/1.1" 200 6601
+[31/Mar/2024 11:46:26] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[31/Mar/2024 11:46:27] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:46:27] "GET / HTTP/1.1" 200 6637
+[31/Mar/2024 11:46:28] "GET /?q=kantipath HTTP/1.1" 200 6036
+[31/Mar/2024 11:46:30] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[31/Mar/2024 11:46:31] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:46:31] "GET / HTTP/1.1" 200 6637
+[31/Mar/2024 11:46:34] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[31/Mar/2024 11:46:40] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:46:41] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3416
+[31/Mar/2024 11:46:43] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4746
+[31/Mar/2024 11:46:49] "GET /record/anisha.shahi@sanimabank.com HTTP/1.1" 200 3441
+[31/Mar/2024 11:47:06] "GET /update_record/anisha.shahi@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:47:06] "GET / HTTP/1.1" 200 6637
+[31/Mar/2024 11:47:17] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 11:47:17] "GET / HTTP/1.1" 200 3026
+[31/Mar/2024 11:47:18] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 11:47:18] "GET /favicon.ico HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /admin HTTP/1.1" 301 0
+[31/Mar/2024 11:47:25] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:47:25] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:47:25] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 11:47:25] "GET / HTTP/1.1" 200 6610
+[31/Mar/2024 11:47:25] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /static/admin/css/login.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:25] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:47:29] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /static/admin/css/login.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:29] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:47:40] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /static/admin/css/login.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:47:40] "GET /favicon.ico HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:48:02] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:48:02] "GET /admin/ HTTP/1.1" 200 6201
+[31/Mar/2024 11:48:02] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:02] "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:07] "GET /?q=praj HTTP/1.1" 200 3274
+[31/Mar/2024 11:48:12] "GET /record/prajwol.maharjan@sanimabank.com HTTP/1.1" 200 3400
+[31/Mar/2024 11:48:13] "GET /update_record/prajwol.maharjan@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:48:13] "GET / HTTP/1.1" 200 6637
+[31/Mar/2024 11:48:14] "GET /admin/auth_app/record/ HTTP/1.1" 200 32856
+[31/Mar/2024 11:48:15] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/css/changelists.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 11:48:15] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/js/core.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3416
+[31/Mar/2024 11:48:15] "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:15] "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:16] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:16] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:16] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:16] "GET /static/admin/js/filters.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:16] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:16] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4746
+[31/Mar/2024 11:48:18] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:48:23] "GET /admin/auth_app/record/samjhana.yekten_40sanimabank.com/change/ HTTP/1.1" 200 15838
+[31/Mar/2024 11:48:23] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:23] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:23] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 11:48:23] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:23] "GET /static/admin/css/forms.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:23] "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/core.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:24] "GET /static/admin/js/change_form.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:43] "POST /admin/logout/ HTTP/1.1" 200 3553
+[31/Mar/2024 11:48:43] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:43] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:43] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:48:43] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:43] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:48:43] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:49:10] "GET /admin/ HTTP/1.1" 200 6201
+[31/Mar/2024 11:49:10] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "GET /static/admin/css/dashboard.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:10] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /admin/auth_app/record/ HTTP/1.1" 200 32856
+[31/Mar/2024 11:49:12] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/css/changelists.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 11:49:12] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/core.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:12] "GET /static/admin/js/filters.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /admin/auth_app/record/add/ HTTP/1.1" 200 15303
+[31/Mar/2024 11:49:15] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/css/forms.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[31/Mar/2024 11:49:15] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/jquery.init.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/core.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/actions.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/urlify.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/prepopulate.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:15] "GET /static/admin/js/change_form.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:22] "POST /admin/logout/ HTTP/1.1" 200 3553
+[31/Mar/2024 11:49:22] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:22] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:22] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:22] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:49:22] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:49:22] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:50:46] "GET /?q=prajwol HTTP/1.1" 200 3274
+[31/Mar/2024 11:50:48] "GET /record/prajwol.maharjan@sanimabank.com HTTP/1.1" 200 3400
+[31/Mar/2024 11:50:51] "GET /update_record/prajwol.maharjan@sanimabank.com HTTP/1.1" 200 4710
+[31/Mar/2024 11:51:20] "POST /update_record/prajwol.maharjan@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 11:51:20] "GET / HTTP/1.1" 200 6601
+[31/Mar/2024 11:51:30] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:55:23] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3416
+[31/Mar/2024 11:55:24] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4746
+[31/Mar/2024 11:55:45] "GET /admin/ HTTP/1.1" 302 0
+[31/Mar/2024 11:55:45] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[31/Mar/2024 11:55:45] "GET /static/admin/css/base.css HTTP/1.1" 404 179
+[31/Mar/2024 11:55:45] "GET /static/admin/js/theme.js HTTP/1.1" 404 179
+[31/Mar/2024 11:55:45] "GET /static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[31/Mar/2024 11:55:45] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[31/Mar/2024 11:55:45] "GET /static/admin/css/login.css HTTP/1.1" 404 179
+[31/Mar/2024 11:55:45] "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+[31/Mar/2024 11:55:45] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[31/Mar/2024 11:55:55] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 11:55:56] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:55:57] "GET /favicon.ico HTTP/1.1" 404 179
+[31/Mar/2024 11:56:00] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 11:56:00] "GET / HTTP/1.1" 200 6610
+[31/Mar/2024 11:56:08] "GET /?q=prajw HTTP/1.1" 200 3287
+[31/Mar/2024 11:56:15] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 7888
+[31/Mar/2024 11:56:26] "GET /?q=AMIT HTTP/1.1" 200 3300
+[31/Mar/2024 11:56:28] "GET /record/prajwol.maharjan@sanimabank.com HTTP/1.1" 200 3423
+[31/Mar/2024 11:56:43] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:56:43] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3416
+[31/Mar/2024 11:56:44] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4746
+[31/Mar/2024 11:57:00] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 11:57:19] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 11:57:26] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 11:57:26] "GET / HTTP/1.1" 200 6610
+[31/Mar/2024 11:57:29] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[31/Mar/2024 11:58:25] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 4797
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 11:12:53
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Username is call_center
+Password is SIP@CallCenter1
+User is call_center
+Customer record is ajaykumar yadav
+pk is ajaykumar.yadav@sanimabank.com
+current record is ajaykumar yadav
+current record email is ajaykumar.yadav@sanimabank.com
+current users email is call.center@sanimabank.com
+current users username is call_center
+Customer record is roshan khadka
+Username is bibek.shrestha
+Password is Off!c3@#123
+User is bibek.shrestha
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Customer record is abhishek poudel
+Customer record is bibek shrestha
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Username is salina.raut
+Password is mar@2024
+User is salina.raut
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+Customer record is abhishek poudel
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Customer record is anisha shahi
+pk is anisha.shahi@sanimabank.com
+current record is anisha shahi
+current record email is anisha.shahi@sanimabank.com
+current users email is salina.raut@sanimabank.com
+current users username is salina.raut
+Username is prajwol.maharjan
+Password is sanima@4321
+User is prajwol.maharjan
+Customer record is prajwol maharjan
+pk is prajwol.maharjan@sanimabank.com
+current record is prajwol maharjan
+current record email is prajwol.maharjan@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Customer record is prajwol maharjan
+pk is prajwol.maharjan@sanimabank.com
+current record is prajwol maharjan
+current record email is prajwol.maharjan@sanimabank.com
+current users email is prajwol.maharjan@sanimabank.com
+current users username is prajwol.maharjan
+USER OK TO UPDATE
+pk is prajwol.maharjan@sanimabank.com
+current record is prajwol maharjan
+current record email is prajwol.maharjan@sanimabank.com
+current users email is prajwol.maharjan@sanimabank.com
+current users username is prajwol.maharjan
+USER OK TO UPDATE
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Username is salina.raut
+Password is mar@2024
+User is salina.raut
+Customer record is prajwol maharjan
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Username is abhishek.poudel
+Password is san#12345
+User is abhishek.poudel
+Customer record is abhishek poudel
+pk is abhishek.poudel@sanimabank.com
+current record is abhishek poudel
+current record email is abhishek.poudel@sanimabank.com
+current users email is abhishek.poudel@sanimabank.com
+current users username is abhishek.poudel
+USER OK TO UPDATE
+[31/Mar/2024 11:59:04] "GET /record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 3416
+[31/Mar/2024 11:59:08] "GET /update_record/bibek.shrestha@sanimabank.com HTTP/1.1" 200 4747
+[31/Mar/2024 11:59:17] "GET / HTTP/1.1" 200 6371
+[31/Mar/2024 12:26:47] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 12:26:47] "GET / HTTP/1.1" 200 3026
+[31/Mar/2024 16:00:44] "POST /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[31/Mar/2024 16:00:44] "GET / HTTP/1.1" 200 3046
+[31/Mar/2024 16:00:50] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 16:00:50] "GET / HTTP/1.1" 200 6610
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 31, 2024 - 11:58:50
+Django version 5.0.3, using settings 'mysite.settings'
+Starting development server at http://192.168.29.60:8000/
+Quit the server with CONTROL-C.
+
+Customer record is bibek shrestha
+pk is bibek.shrestha@sanimabank.com
+current record is bibek shrestha
+current record email is bibek.shrestha@sanimabank.com
+current users email is bibek.shrestha@sanimabank.com
+current users username is bibek.shrestha
+USER OK TO UPDATE
+Username is abhishek.poudel
+Password is san#12345
+User is abhishek.poudel
+Watching for file changes with StatReloader
+[31/Mar/2024 16:19:16] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 16:19:16] "GET / HTTP/1.1" 200 3026
+[31/Mar/2024 16:19:58] "GET / HTTP/1.1" 200 2782
+[31/Mar/2024 16:20:01] "POST / HTTP/1.1" 302 0
+[31/Mar/2024 16:20:01] "GET / HTTP/1.1" 200 6610
+[31/Mar/2024 16:20:07] "GET /logout/ HTTP/1.1" 302 0
+[31/Mar/2024 16:20:07] "GET / HTTP/1.1" 200 3026
+[01/Apr/2024 08:36:45] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[01/Apr/2024 08:38:33] "GET /favicon.ico HTTP/1.1" 404 2823
+[01/Apr/2024 08:48:43] "POST / HTTP/1.1" 302 0
+[01/Apr/2024 08:48:43] "GET / HTTP/1.1" 200 6602
+[01/Apr/2024 09:11:50] "GET /admin HTTP/1.1" 301 0
+[01/Apr/2024 09:11:50] "GET /admin/ HTTP/1.1" 302 0
+[01/Apr/2024 09:11:50] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[01/Apr/2024 09:11:50] "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+[01/Apr/2024 09:11:50] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[01/Apr/2024 09:11:50] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+[01/Apr/2024 09:11:50] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+[01/Apr/2024 09:11:50] "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[01/Apr/2024 09:11:50] "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+[01/Apr/2024 09:11:50] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[01/Apr/2024 09:12:08] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+[01/Apr/2024 09:12:33] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+[01/Apr/2024 10:23:45] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[01/Apr/2024 10:25:30] "GET /favicon.ico HTTP/1.1" 404 2823
+[01/Apr/2024 10:30:10] "POST / HTTP/1.1" 302 0
+[01/Apr/2024 10:30:10] "GET / HTTP/1.1" 200 6602
+[02/Apr/2024 04:19:30] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[02/Apr/2024 04:19:32] "GET /favicon.ico HTTP/1.1" 404 2823
+[02/Apr/2024 04:19:44] "POST / HTTP/1.1" 302 0
+[02/Apr/2024 04:19:44] "GET / HTTP/1.1" 200 6602
+[02/Apr/2024 04:20:29] "GET /admin/ HTTP/1.1" 302 0
+[02/Apr/2024 04:20:29] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3684
+[02/Apr/2024 04:20:29] "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+[02/Apr/2024 04:20:29] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+[02/Apr/2024 04:20:29] "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+[02/Apr/2024 04:20:29] "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[02/Apr/2024 04:20:29] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+[02/Apr/2024 04:20:29] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[02/Apr/2024 04:20:29] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/home/albus/mysite/auth_app/handle_authentication.py", line 32, in authenticate
+    user = User.objects.get(username=username)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 558, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 822, in _read_query_result
+    result.read()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 1200, in read
+    first_packet = self.connection._read_packet()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 772, in _read_packet
+    packet.raise_for_error()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'created_at' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/contrib/admin/sites.py", line 440, in login
+    return LoginView.as_view(**defaults)(request)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/contrib/auth/views.py", line 88, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/generic/base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/generic/edit.py", line 150, in post
+    if form.is_valid():
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/forms/forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/forms/forms.py", line 192, in errors
+    self.full_clean()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/forms/forms.py", line 328, in full_clean
+    self._clean_form()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/forms/forms.py", line 349, in _clean_form
+    cleaned_data = self.clean()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/contrib/auth/forms.py", line 250, in clean
+    self.user_cache = authenticate(
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "/home/albus/mysite/auth_app/handle_authentication.py", line 58, in authenticate
+    a.save()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/base.py", line 822, in save
+    self.save_base(
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/base.py", line 909, in save_base
+    updated = self._save_table(
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/base.py", line 1036, in _save_table
+    updated = self._do_update(
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/base.py", line 1101, in _do_update
+    return filtered._update(values) > 0
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1990, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/django/db/backends/mysql/base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 558, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 822, in _read_query_result
+    result.read()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 1200, in read
+    first_packet = self.connection._read_packet()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/connections.py", line 772, in _read_packet
+    packet.raise_for_error()
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/albus/newproject/my_env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'created_at' cannot be null")
+[02/Apr/2024 04:20:46] "POST /admin/login/?next=/admin/ HTTP/1.1" 500 329460
+[02/Apr/2024 04:21:03] "GET /?q=central HTTP/1.1" 200 2940
+[02/Apr/2024 04:21:16] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+[02/Apr/2024 04:21:19] "GET /?q=kantipath HTTP/1.1" 200 6036
+[02/Apr/2024 04:21:32] "GET /?q=damak HTTP/1.1" 200 5659
+[02/Apr/2024 04:21:42] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+[02/Apr/2024 04:22:58] "GET /admin/ HTTP/1.1" 302 0
+[02/Apr/2024 04:22:58] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3684
+[02/Apr/2024 04:23:17] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[02/Apr/2024 04:23:17] "GET /admin/ HTTP/1.1" 200 6201
+[02/Apr/2024 04:23:17] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[02/Apr/2024 04:23:17] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[02/Apr/2024 04:23:17] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[02/Apr/2024 04:23:48] "GET /admin/auth/group/ HTTP/1.1" 200 7778
+[02/Apr/2024 04:23:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[02/Apr/2024 04:23:48] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[02/Apr/2024 04:23:48] "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[02/Apr/2024 04:23:48] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+[02/Apr/2024 04:23:48] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[02/Apr/2024 04:23:48] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[02/Apr/2024 04:23:48] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+[02/Apr/2024 04:23:48] "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+[02/Apr/2024 04:23:48] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[02/Apr/2024 04:23:48] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[02/Apr/2024 04:23:48] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[02/Apr/2024 04:23:49] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[02/Apr/2024 04:23:49] "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[02/Apr/2024 15:24:01] "GET / HTTP/1.1" 200 2782
+[02/Apr/2024 15:24:04] "POST / HTTP/1.1" 302 0
+[02/Apr/2024 15:24:05] "GET / HTTP/1.1" 200 6602
+[02/Apr/2024 15:24:15] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[02/Apr/2024 15:24:18] "GET / HTTP/1.1" 200 6363
+[04/Apr/2024 09:32:58] "GET / HTTP/1.1" 200 2782
+[04/Apr/2024 09:33:00] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[04/Apr/2024 09:33:03] "GET /favicon.ico HTTP/1.1" 404 2823
+Not Found: /favicon.ico
+[04/Apr/2024 09:33:03] "GET /favicon.ico HTTP/1.1" 404 2823
+[04/Apr/2024 11:10:31] "POST / HTTP/1.1" 302 0
+[04/Apr/2024 11:10:31] "GET / HTTP/1.1" 200 3058
+[04/Apr/2024 11:10:42] "POST / HTTP/1.1" 302 0
+[04/Apr/2024 11:10:42] "GET / HTTP/1.1" 200 6602
+[04/Apr/2024 11:11:07] "GET /?q=sarita+ghimire HTTP/1.1" 200 2940
+[04/Apr/2024 11:11:16] "GET /?q=alija HTTP/1.1" 200 3283
+[04/Apr/2024 12:23:29] "GET /logout/ HTTP/1.1" 302 0
+[04/Apr/2024 12:23:29] "GET / HTTP/1.1" 200 3026
+Not Found: /favicon.ico
+[08/Apr/2024 06:40:10] "GET /favicon.ico HTTP/1.1" 404 2823
+[14/Apr/2024 05:39:19] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[14/Apr/2024 05:39:19] "GET /favicon.ico HTTP/1.1" 404 2823
+[14/Apr/2024 05:39:23] "POST / HTTP/1.1" 302 0
+[14/Apr/2024 05:39:23] "GET / HTTP/1.1" 200 6602
+[21/Apr/2024 05:04:35] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[21/Apr/2024 05:04:38] "GET /favicon.ico HTTP/1.1" 404 2823
+[21/Apr/2024 05:04:49] "POST / HTTP/1.1" 302 0
+[21/Apr/2024 05:04:49] "GET / HTTP/1.1" 200 6602
+[21/Apr/2024 05:05:02] "GET /?q=csd HTTP/1.1" 200 2940
+[21/Apr/2024 05:05:06] "GET /?q=naxal HTTP/1.1" 200 2940
+[21/Apr/2024 05:05:15] "GET / HTTP/1.1" 200 2782
+[21/Apr/2024 05:05:15] "GET / HTTP/1.1" 200 2782
+[21/Apr/2024 05:05:16] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+[21/Apr/2024 05:05:30] "GET /admin/ HTTP/1.1" 302 0
+[21/Apr/2024 05:05:30] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[21/Apr/2024 05:05:30] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[21/Apr/2024 05:05:30] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[21/Apr/2024 05:05:30] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[21/Apr/2024 05:05:30] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[21/Apr/2024 05:05:30] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[21/Apr/2024 05:05:30] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[21/Apr/2024 05:05:30] "GET /admin/ HTTP/1.1" 302 0
+[21/Apr/2024 05:05:31] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[21/Apr/2024 05:05:31] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+Not Found: /favicon.ico
+[21/Apr/2024 05:05:31] "GET /favicon.ico HTTP/1.1" 404 2823
+Not Found: /favicon.ico
+[21/Apr/2024 05:05:31] "GET /favicon.ico HTTP/1.1" 404 2823
+[21/Apr/2024 05:05:33] "GET /admin HTTP/1.1" 301 0
+[21/Apr/2024 05:05:33] "GET /admin/ HTTP/1.1" 302 0
+[21/Apr/2024 05:05:33] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3684
+[21/Apr/2024 05:05:33] "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+[21/Apr/2024 05:05:33] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+[21/Apr/2024 05:05:33] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[21/Apr/2024 05:05:33] "GET /static/admin/css/login.css HTTP/1.1" 200 958
+[21/Apr/2024 05:05:33] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+[21/Apr/2024 05:05:33] "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+[21/Apr/2024 05:05:33] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[21/Apr/2024 05:05:48] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 3866
+[21/Apr/2024 05:05:52] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+[21/Apr/2024 05:05:55] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 3866
+[21/Apr/2024 05:06:10] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 3866
+[21/Apr/2024 05:06:14] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+[21/Apr/2024 05:06:44] "GET /admin/ HTTP/1.1" 302 0
+[21/Apr/2024 05:06:44] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3684
+[21/Apr/2024 05:07:02] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4327
+[21/Apr/2024 05:07:10] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[21/Apr/2024 05:07:10] "GET /admin/ HTTP/1.1" 200 6201
+[21/Apr/2024 05:07:10] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[21/Apr/2024 05:07:10] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[21/Apr/2024 05:07:10] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[21/Apr/2024 05:07:17] "GET / HTTP/1.1" 200 6363
+[21/Apr/2024 05:09:12] "GET /?q=central HTTP/1.1" 200 2940
+[21/Apr/2024 06:28:01] "GET /?q=kantipath HTTP/1.1" 200 2782
+[21/Apr/2024 06:28:05] "POST / HTTP/1.1" 302 0
+[21/Apr/2024 06:28:05] "GET / HTTP/1.1" 200 6602
+[21/Apr/2024 06:28:10] "GET /?q=kantipath HTTP/1.1" 200 6036
+[21/Apr/2024 07:51:10] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 302 0
+[21/Apr/2024 07:51:10] "GET / HTTP/1.1" 200 3027
+[21/Apr/2024 07:51:14] "POST / HTTP/1.1" 302 0
+[21/Apr/2024 07:51:14] "GET / HTTP/1.1" 200 6602
+[21/Apr/2024 07:51:16] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[21/Apr/2024 07:51:26] "GET / HTTP/1.1" 200 6363
+[21/Apr/2024 07:51:28] "GET /record/amit.chaudhary@sanimabank.com HTTP/1.1" 200 3439
+[21/Apr/2024 07:51:36] "GET / HTTP/1.1" 200 6363
+[21/Apr/2024 07:52:35] "GET /record/bhupal.luitel@sanimabank.com HTTP/1.1" 200 3444
+[21/Apr/2024 07:52:41] "GET / HTTP/1.1" 200 6363
+[21/Apr/2024 07:52:44] "GET /record/basanta.pandey@sanimabank.com HTTP/1.1" 200 3440
+[21/Apr/2024 07:52:50] "GET / HTTP/1.1" 200 6363
+[21/Apr/2024 07:52:55] "GET /record/asmita.khadka@sanimabank.com HTTP/1.1" 200 3433
+[21/Apr/2024 08:16:02] "GET / HTTP/1.1" 200 2782
+[21/Apr/2024 08:20:09] "GET /record/surendra.dhakal@sanimabank.com HTTP/1.1" 302 0
+[21/Apr/2024 08:20:09] "GET / HTTP/1.1" 200 3027
+[22/Apr/2024 05:01:54] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[22/Apr/2024 05:01:54] "GET /favicon.ico HTTP/1.1" 404 2823
+[22/Apr/2024 05:02:00] "POST / HTTP/1.1" 302 0
+[22/Apr/2024 05:02:00] "GET / HTTP/1.1" 200 6602
+[22/Apr/2024 05:02:13] "GET /?q=core HTTP/1.1" 200 3970
+[22/Apr/2024 05:02:22] "GET /?q=putali HTTP/1.1" 200 3984
+[22/Apr/2024 05:02:31] "GET /?q=recovery HTTP/1.1" 200 6557
+[22/Apr/2024 05:02:50] "GET /?q=sunwal HTTP/1.1" 200 4316
+[03/May/2024 07:22:44] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[03/May/2024 07:22:46] "GET /favicon.ico HTTP/1.1" 404 2823
+[03/May/2024 07:22:54] "POST / HTTP/1.1" 302 0
+[03/May/2024 07:22:54] "GET / HTTP/1.1" 200 6602
+[03/May/2024 07:23:28] "GET /?q=kantipath HTTP/1.1" 200 6036
+[03/May/2024 07:23:34] "GET /?q=damak HTTP/1.1" 200 5659
+[03/May/2024 07:23:47] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+[03/May/2024 07:23:53] "GET /?q=csd HTTP/1.1" 200 2940
+[03/May/2024 07:24:12] "GET /?q=rajendra+sodari HTTP/1.1" 200 2940
+[03/May/2024 07:24:19] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+[03/May/2024 07:24:47] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+[03/May/2024 07:24:53] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8212
+Not Found: /favicon.ico
+[03/May/2024 07:24:53] "GET /favicon.ico HTTP/1.1" 404 2823
+[03/May/2024 07:25:06] "GET / HTTP/1.1" 200 6363
+[03/May/2024 07:25:27] "GET /?q=besi HTTP/1.1" 200 4668
+[03/May/2024 07:26:04] "GET /?q=gaushala HTTP/1.1" 200 2940
+[03/May/2024 07:26:08] "GET /?q=gau HTTP/1.1" 200 4714
+[03/May/2024 07:27:07] "GET /logout/ HTTP/1.1" 302 0
+[03/May/2024 07:27:07] "GET / HTTP/1.1" 200 3026
+[03/May/2024 07:27:12] "GET /admin/ HTTP/1.1" 302 0
+[03/May/2024 07:27:12] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[03/May/2024 07:27:13] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[03/May/2024 07:27:13] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[03/May/2024 07:27:13] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[03/May/2024 07:27:13] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[03/May/2024 07:27:13] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[03/May/2024 07:27:13] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[03/May/2024 07:27:13] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[03/May/2024 07:27:19] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[03/May/2024 07:27:19] "GET /admin/ HTTP/1.1" 200 6201
+[03/May/2024 07:27:19] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[03/May/2024 07:27:20] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[03/May/2024 07:27:20] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[03/May/2024 07:27:37] "GET /admin/auth_app/record/ HTTP/1.1" 200 33181
+[03/May/2024 07:27:37] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+[03/May/2024 07:27:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 07:27:37] "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[03/May/2024 07:27:37] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[03/May/2024 07:27:37] "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+[03/May/2024 07:27:37] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+[03/May/2024 07:27:37] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[03/May/2024 07:27:38] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[03/May/2024 07:27:38] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[03/May/2024 07:27:38] "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[03/May/2024 07:27:38] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[03/May/2024 07:27:38] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[03/May/2024 07:27:53] "GET / HTTP/1.1" 200 6363
+Forbidden (CSRF token from POST incorrect.): /
+[03/May/2024 07:27:57] "POST / HTTP/1.1" 403 2517
+[03/May/2024 07:28:03] "GET /logout/ HTTP/1.1" 302 0
+[03/May/2024 07:28:03] "GET / HTTP/1.1" 200 3026
+[03/May/2024 07:28:08] "GET /admin/ HTTP/1.1" 302 0
+[03/May/2024 07:28:08] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[03/May/2024 07:28:11] "GET / HTTP/1.1" 200 2782
+[03/May/2024 07:28:12] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[03/May/2024 07:28:12] "GET /admin/ HTTP/1.1" 200 6201
+[03/May/2024 07:28:29] "GET /admin/auth/group/add/ HTTP/1.1" 200 11683
+[03/May/2024 07:28:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 07:28:29] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+[03/May/2024 07:28:29] "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+[03/May/2024 07:28:29] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+[03/May/2024 07:28:29] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+[03/May/2024 07:28:29] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[03/May/2024 07:28:30] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[03/May/2024 07:28:30] "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[03/May/2024 07:28:30] "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[03/May/2024 07:28:30] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[03/May/2024 07:28:30] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+Not Found: /favicon.ico
+[03/May/2024 07:28:33] "GET /favicon.ico HTTP/1.1" 404 2823
+[03/May/2024 07:28:36] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[03/May/2024 07:28:57] "GET /favicon.ico HTTP/1.1" 404 2823
+[03/May/2024 07:29:01] "GET /admin/auth_app/record/add/ HTTP/1.1" 200 15295
+[03/May/2024 07:29:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 07:32:15] "POST /admin/auth_app/record/add/ HTTP/1.1" 302 0
+[03/May/2024 07:32:15] "GET /admin/auth_app/record/ HTTP/1.1" 200 33795
+[03/May/2024 07:32:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 07:32:15] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[03/May/2024 07:32:31] "GET / HTTP/1.1" 200 6363
+[03/May/2024 07:32:36] "GET /?q=san HTTP/1.1" 200 28657
+[03/May/2024 07:32:45] "GET /?q=santosh HTTP/1.1" 200 3617
+[03/May/2024 07:33:52] "GET /admin/auth_app/record/santosh.marasini_40sanimabank.com/change/ HTTP/1.1" 200 15791
+[03/May/2024 07:33:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 07:34:14] "POST /admin/auth_app/record/santosh.marasini_40sanimabank.com/change/ HTTP/1.1" 302 0
+[03/May/2024 07:34:14] "GET /admin/auth_app/record/ HTTP/1.1" 200 33770
+[03/May/2024 07:34:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 07:34:19] "GET /?q=santosh HTTP/1.1" 200 3612
+[03/May/2024 08:08:19] "GET /admin/auth_app/record/add/ HTTP/1.1" 302 0
+[03/May/2024 08:08:19] "GET /admin/login/?next=/admin/auth_app/record/add/ HTTP/1.1" 200 4198
+[03/May/2024 08:08:22] "POST /admin/login/?next=/admin/auth_app/record/add/ HTTP/1.1" 302 0
+[03/May/2024 08:08:23] "GET /admin/auth_app/record/add/ HTTP/1.1" 200 15295
+[03/May/2024 08:08:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 08:09:30] "POST /admin/auth_app/record/add/ HTTP/1.1" 200 15662
+[03/May/2024 08:09:30] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[03/May/2024 09:22:10] "GET /logout/ HTTP/1.1" 302 0
+[03/May/2024 09:22:10] "GET / HTTP/1.1" 200 3026
+[03/May/2024 09:22:14] "POST /admin/logout/ HTTP/1.1" 302 0
+[03/May/2024 09:22:14] "GET /admin/ HTTP/1.1" 302 0
+[03/May/2024 09:22:14] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+[09/May/2024 11:23:22] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[09/May/2024 11:23:24] "GET /favicon.ico HTTP/1.1" 404 2823
+[09/May/2024 11:23:33] "POST / HTTP/1.1" 302 0
+[09/May/2024 11:23:33] "GET / HTTP/1.1" 200 6602
+[09/May/2024 11:23:45] "GET /?q=damak HTTP/1.1" 200 5659
+[09/May/2024 11:24:07] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8531
+[09/May/2024 11:24:19] "GET /?q=sant HTTP/1.1" 200 4300
+[09/May/2024 11:24:33] "GET /?q=HEAD+OFFICE HTTP/1.1" 200 8531
+[09/May/2024 11:25:16] "GET /?q=shiva HTTP/1.1" 200 3301
+[09/May/2024 11:25:23] "GET /?q=shivapuri HTTP/1.1" 200 3301
+[09/May/2024 11:27:03] "GET /admin/ HTTP/1.1" 302 0
+[09/May/2024 11:27:03] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3684
+[09/May/2024 11:27:04] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[09/May/2024 11:27:04] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/May/2024 11:27:04] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/May/2024 11:27:04] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[09/May/2024 11:27:04] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[09/May/2024 11:27:04] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[09/May/2024 11:27:04] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[09/May/2024 11:27:08] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[09/May/2024 11:27:08] "GET /admin/ HTTP/1.1" 200 7024
+[09/May/2024 11:27:08] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/May/2024 11:27:08] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/May/2024 11:27:08] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /admin/auth_app/record/add/ HTTP/1.1" 200 15295
+[09/May/2024 11:27:12] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[09/May/2024 11:27:12] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[09/May/2024 11:27:12] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[09/May/2024 11:27:13] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[09/May/2024 11:27:38] "POST /admin/auth_app/record/add/ HTTP/1.1" 200 15760
+[09/May/2024 11:27:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[09/May/2024 11:28:24] "POST /admin/auth_app/record/add/ HTTP/1.1" 302 0
+[09/May/2024 11:28:24] "GET /admin/auth_app/record/ HTTP/1.1" 200 34107
+[09/May/2024 11:28:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[09/May/2024 11:28:24] "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[09/May/2024 11:28:24] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[09/May/2024 11:28:24] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[09/May/2024 11:28:24] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[09/May/2024 11:28:32] "GET /?q=yogendra HTTP/1.1" 200 3276
+[09/May/2024 11:28:36] "GET /record/yogendra.tiwari@sanimabank.com HTTP/1.1" 200 3402
+[09/May/2024 11:28:39] "GET / HTTP/1.1" 200 6363
+[09/May/2024 11:28:59] "GET /admin/auth_app/record/yuvraj.poudel_40sanimabank.com/change/ HTTP/1.1" 200 15813
+[09/May/2024 11:28:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[09/May/2024 11:30:21] "GET / HTTP/1.1" 200 2782
+[09/May/2024 11:30:29] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[09/May/2024 11:30:43] "GET /favicon.ico HTTP/1.1" 404 2823
+Not Found: /favicon.ico
+[09/May/2024 11:30:51] "GET /favicon.ico HTTP/1.1" 404 2823
+[09/May/2024 11:30:59] "POST / HTTP/1.1" 302 0
+[09/May/2024 11:30:59] "GET / HTTP/1.1" 200 3058
+[09/May/2024 11:31:49] "POST / HTTP/1.1" 302 0
+[09/May/2024 11:31:49] "GET / HTTP/1.1" 200 6602
+[09/May/2024 11:32:22] "GET / HTTP/1.1" 200 6363
+[09/May/2024 11:32:28] "GET / HTTP/1.1" 200 2782
+[09/May/2024 11:32:40] "GET / HTTP/1.1" 200 2782
+[09/May/2024 11:33:27] "POST / HTTP/1.1" 302 0
+[09/May/2024 11:33:27] "GET / HTTP/1.1" 200 3058
+[19/May/2024 11:16:49] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[19/May/2024 11:16:50] "GET /favicon.ico HTTP/1.1" 404 2823
+[19/May/2024 11:16:52] "GET /admin/auth_app/record/yuvraj.poudel_40sanimabank.com/change/ HTTP/1.1" 302 0
+[19/May/2024 11:16:53] "GET /admin/login/?next=/admin/auth_app/record/yuvraj.poudel_40sanimabank.com/change/ HTTP/1.1" 200 4266
+[19/May/2024 11:16:53] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[19/May/2024 11:16:53] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[19/May/2024 11:16:53] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[19/May/2024 11:16:53] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[19/May/2024 11:16:53] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[19/May/2024 11:16:53] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[19/May/2024 11:16:53] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[20/May/2024 08:23:43] "GET / HTTP/1.1" 200 2782
+Not Found: /favicon.ico
+[20/May/2024 08:23:44] "GET /favicon.ico HTTP/1.1" 404 2823
+[20/May/2024 08:23:47] "POST / HTTP/1.1" 302 0
+[20/May/2024 08:23:48] "GET / HTTP/1.1" 200 6602
+[20/May/2024 08:23:53] "GET /record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 3450
+[20/May/2024 08:23:55] "GET /update_record/abhishek.poudel@sanimabank.com HTTP/1.1" 200 4798
+[20/May/2024 08:23:58] "GET / HTTP/1.1" 200 6363
+[20/May/2024 08:23:59] "GET /record/ajaykumar.yadav@sanimabank.com HTTP/1.1" 200 3443
+[20/May/2024 08:24:01] "GET /update_record/ajaykumar.yadav@sanimabank.com HTTP/1.1" 302 0
+[20/May/2024 08:24:01] "GET / HTTP/1.1" 200 6629
+[20/May/2024 08:24:04] "GET /logout/ HTTP/1.1" 302 0
+[20/May/2024 08:24:04] "GET / HTTP/1.1" 200 3026
